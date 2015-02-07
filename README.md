@@ -22,18 +22,12 @@ For this project, a web portfolio was provided, which requires some modification
   $> ngrok 8080
   ```
 #### To directly see the web page:
-[Portfolio](http://mikelzuzu.github.io/mobile-portfolio/index.html)
+[Portfolio](http://mikelzuzu.github.io/frontend-nanodegree-mobile-portfolio/index.html)
 
 #### Another way to test this web page:
 
 1. For the PageSpeed Insights Score, open the [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) link and copy the URL to be tested into the space provided, and click the Analyze button.
-  * URL: http://mikelzuzu.github.io/mobile-portfolio/index.html
+  * URL: http://mikelzuzu.github.io/frontend-nanodegree-mobile-portfolio/index.html
 2. For the Frames Per Second reading, open the below URL in Chrome. Navigate to the DevTools page (menu > View > Developer > Developer Tools). Click on the Timeline tab. Record a trace, and verify the Frames mode is on (looks like a set of vertical bars).
-  * URL: http://mikelzuzu.github.io/mobile-portfolio/views/pizza.html
-  * 
-  
-
-1. Copy the public URL ngrok gives you and try running it through PageSpeed Insights! [More on integrating ngrok, Grunt and PageSpeed.](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/)
-
-Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
+  * URL: http://mikelzuzu.github.io/frontend-nanodegree-mobile-portfolio/views/pizza.html
 
