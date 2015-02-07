@@ -1,0 +1,10 @@
+https://developers.google.com/speed/docs/insights/Server
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+https://developers.google.com/speed/docs/insights/ConfigureViewport
+https://developers.google.com/speed/docs/insights/OptimizeImages
+https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+
+http://www.sitepoint.com/accessing-localhost-from-anywhere/
+
+http://jscompress.com/
